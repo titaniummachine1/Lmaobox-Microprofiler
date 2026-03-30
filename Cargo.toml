@@ -1,0 +1,8 @@
+[package]
+name = "lbox_analyzer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.5"
+winapi = { version = "0.3", features = ["errhandlingapi", "handleapi", "namedpipeapi", "winbase", "winerror"] }

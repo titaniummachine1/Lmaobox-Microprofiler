@@ -1,0 +1,14 @@
+/target/
+/*.dll
+/*.exp
+/*.ilk
+/*.lib
+/*.obj
+/*.pdb
+/*.exe
+/lbox_flamegraph_data.txt
+/final_profile.svg
+/profile_*.svg
+/profile_*.folded.txt
+/vendor/lua54-min/bin/
+/vendor/lua54-min/lib/
